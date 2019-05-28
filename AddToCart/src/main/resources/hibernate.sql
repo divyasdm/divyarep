@@ -20,7 +20,7 @@ CREATE TABLE `cart` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=latin1;
 
-/*Data for the table 1 `cart` */
+/*Data m, for the table 1 `cart` */
 
 insert into `cart` values 
 (4,'saurabh'),
