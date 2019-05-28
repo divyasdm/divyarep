@@ -2,7 +2,7 @@ package divyaproject;
 
 public class demo {
 String name;
+int s;
 int n;
-int f;
 float m;
 }
