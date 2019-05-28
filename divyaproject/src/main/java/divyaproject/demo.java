@@ -4,4 +4,5 @@ public class demo {
 String name;
 int n;
 int f;
+float m;
 }
